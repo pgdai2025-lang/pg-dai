@@ -1,5 +1,0 @@
-DBUDER = admin
-DBpassword = password@123
-
-TOKEN = @#$%^&*()DFGH#$%^
-key = 3456787678932
