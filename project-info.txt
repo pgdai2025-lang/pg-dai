@@ -1,0 +1,4 @@
+DBUDER = admin
+DBpassword = password@123
+
+TOKEN = @#$%^&*()DFGH#$%^
